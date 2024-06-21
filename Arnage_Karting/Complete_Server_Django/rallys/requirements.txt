@@ -1,2 +1,0 @@
-#Aquí las dependencias usadas
-django_restframework
